@@ -7,14 +7,14 @@ Deep Learning using Pytorch.
 ● Popular Deep Learning Frameworks.
 ● Installing Pytorch in your machine.
 ● Introduction to Google Colab.
-● Getting started with Google Colab.
+● Getting started with Google Colab. </br>
 <strong>Lecture2/Class2</strong>:
 Pytorch Basics.
 – Tensor
 ● Example
 ● Numeric type
 ● Operations
-● NumPy bridge
+● NumPy bridge  </br>
 <strong>L3</strong>:
 ● Representing data through Pytorch Tensor
 ● Introduction
