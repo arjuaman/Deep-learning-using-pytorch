@@ -21,5 +21,5 @@ Pytorch Basics. </br>
 ● Working with image </br>
 
 ### References
-All the contents present in the slides are taken from various online resources. </br>
-These slides are used for academic purposes only. </br>
+<strong>All the contents present in the slides are taken from various online resources. </strong> </br>
+<strong>These slides are used for academic purposes only. </strong> </br>
