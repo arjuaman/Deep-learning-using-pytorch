@@ -2,20 +2,20 @@
 Deep Learning using Pytorch.
 
 ### Content:
-<strong>Lecture1/Class1</strong>: 
+<strong>Lecture 1</strong>: 
 ● Brief overview of Pytorch.
 ● Popular Deep Learning Frameworks.
 ● Installing Pytorch in your machine.
 ● Introduction to Google Colab.
 ● Getting started with Google Colab. </br>
-<strong>Lecture2/Class2</strong>:
+<strong>Lecture 2</strong>:
 Pytorch Basics.
 – Tensor
 ● Example
 ● Numeric type
 ● Operations
 ● NumPy bridge  </br>
-<strong>L3</strong>:
+<strong>Lecture 3</strong>:
 ● Representing data through Pytorch Tensor
 ● Introduction
 ● Working with image
