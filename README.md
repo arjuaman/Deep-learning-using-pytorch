@@ -19,7 +19,16 @@ Pytorch Basics. </br>
 ● Representing data through Pytorch Tensor </br>
 ● Introduction </br>
 ● Working with image </br>
+<strong>Lecture 4</strong>: <br>
+● Representing data through Pytorch Tensor <br>
+● Representing tabular data <br>
+● Working with time series <br>
 
 ### References
 <strong>All the contents present in the slides are taken from various online resources. </strong> </br>
 <strong>These slides are used for academic purposes only. </strong> </br>
+
+Class 1: https://pytorch.org/ , https://developer.nvidia.com/cuda-toolkit <br>
+Class 2: Slide credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
+Class 3: Slide credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
+Class 4: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
