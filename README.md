@@ -24,6 +24,11 @@ Pytorch Basics. </br>
 ● Working with time series <br>
 <strong>Lecture 5</strong>:  <br>
 ● Representing text <br>
+<strong>Lecture 6</strong>: <br>
+● Mechanics of Learning-PART I <br>
+● Introduction<br>
+● Example<br>
+– Application of Linear Model<br>
 
 ### References
 <strong>All the contents present in the slides are taken from various online resources. </strong> </br>
@@ -34,3 +39,4 @@ Class 2: Slide credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
 Class 3: Slide credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
 Class 4: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
 Class 5: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
+Class 6: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
