@@ -29,6 +29,9 @@ Pytorch Basics. </br>
 ● Introduction<br>
 ● Example<br>
 – Application of Linear Model<br>
+<strong>Lecture 7</strong>: <br>
+● Mechanics of Learning-PART II <br>
+● Pytorch’s autograd <br>
 
 ### References
 <strong>All the contents present in the slides are taken from various online resources. </strong> </br>
@@ -40,3 +43,4 @@ Class 3: Slide credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
 Class 4: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
 Class 5: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
 Class 6: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
+Class 7: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
