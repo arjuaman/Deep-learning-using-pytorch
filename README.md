@@ -38,7 +38,9 @@ Pytorch Basics. </br>
 <strong>Lecture 9</strong>:<br>
 ● Mechanics of Learning-PART IV <br>
 ● Training, validation, and overfitting <br>
-
+<strong>Lecture 10</strong>:<br>
+● Mechanics of Learning-PART V <br>
+● Artificial Neural Network <br>
 
 ### References
 <strong>All the contents present in the slides are taken from various online resources. </strong> </br>
@@ -53,3 +55,4 @@ Class 6: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
 Class 7: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
 Class 8: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
 Class 9: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
+Class 10: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
