@@ -66,4 +66,4 @@ Class 9: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
 Class 10: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
 Class 11: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
 Class 12: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
-Class 13: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
+Class 13: Slide Credit: Prof. Andrew Ng; E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
