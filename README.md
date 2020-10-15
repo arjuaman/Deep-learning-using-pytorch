@@ -49,6 +49,11 @@ Mechanics of Learning-PART VI continued... <br>
 <strong>Lecture 13</strong>:<br>
 ● Module 2<br>
 ● Understanding Convolutions<br>
+<strong>Lecture 14</strong>:<br>
+● Brief discussion on Convolution through PyTorch<br>
+<strong>Lecture 15</strong>:<br>
+● More on Convolution
+
 
 ### References
 <strong>All the contents present in the slides are taken from various online resources. </strong> </br>
@@ -67,3 +72,5 @@ Class 10: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
 Class 11: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
 Class 12: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
 Class 13: Slide Credit: Prof. Andrew Ng; E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
+Class 14: Slide Credit: Prof. Andrew Ng; E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
+Class 15: Slide Credit: Prof. Andrew Ng; E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
