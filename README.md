@@ -52,8 +52,9 @@ Mechanics of Learning-PART VI continued... <br>
 <strong>Lecture 14</strong>:<br>
 ● Brief discussion on Convolution through PyTorch<br>
 <strong>Lecture 15</strong>:<br>
-● More on Convolution
-
+● More on Convolution<br>
+<strong>Lecture 16</strong>:<br>
+● Discussion on ConvNet<br>
 
 ### References
 <strong>All the contents present in the slides are taken from various online resources. </strong> </br>
@@ -72,5 +73,6 @@ Class 10: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
 Class 11: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
 Class 12: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
 Class 13: Slide Credit: Prof. Andrew Ng; E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
-Class 14: Slide Credit: Prof. Andrew Ng; E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
-Class 15: Slide Credit: Prof. Andrew Ng; E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
+Class 14: Slide Credit: https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html ; Prof. Andrew Ng; E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
+Class 15: Slide Credit: Prof. Andrew Ng;  <br>
+Class 16: Slide Credit: Prof. Andrew Ng;  <br>
