@@ -57,6 +57,9 @@ Mechanics of Learning-PART VI continued... <br>
 ● Discussion on ConvNet<br>
 <strong>Lecture 17</strong>:<br>
 ● Discussion on building a simple ConvNet using PyTorch<br>
+<strong>Lecture 18</strong>:<br>
+● Discussion on building a simple ConvNet using PyTorch<br>
+
 
 ### References
 <strong>All the contents present in the slides are taken from various online resources. </strong> </br>
@@ -79,3 +82,4 @@ Class 14: Slide Credit: https://pytorch.org/tutorials/beginner/blitz/cifar10_tut
 Class 15: Slide Credit: Prof. Andrew Ng;  <br>
 Class 16: Slide Credit: Prof. Andrew Ng;  <br>
 Class 17: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
+Class 18: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
