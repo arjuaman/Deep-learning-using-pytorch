@@ -64,23 +64,18 @@ Mechanics of Learning-PART VI continued... <br>
 <strong>Lecture 20</strong>:<br>
 ● Examples related to Classic Networks in Computer Vision<br>
 ● Building Very Deep Models in Pytorch<br>
+<strong>Lecture 21</strong>:<br>
+● Module 3<br>
+– Introduction to Recurrent Neural Network (RNN) <br>
+<strong>Lecture 22</strong>:<br>
+RNN continued..<br>
 
 ### References
 <strong>All the contents present in the slides are taken from various online resources. </strong> </br>
 <strong>These slides are used for academic purposes only. </strong> </br>
 
 Class 1: https://pytorch.org/ , https://developer.nvidia.com/cuda-toolkit <br>
-Class 2: Slide credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
-Class 3: Slide credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
-Class 4: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
-Class 5: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
-Class 6: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
-Class 7: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
-Class 8: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
-Class 9: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
-Class 10: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
-Class 11: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
-Class 12: Slide Credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
+Class 2 to Class 12: Slide credit: E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
 Class 13: Slide Credit: Prof. Andrew Ng; E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
 Class 14: Slide Credit: https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html ; Prof. Andrew Ng; E. STEVENS, L. ANTIGA, and T. VIEHMANN <br>
 Class 15: Slide Credit: Prof. Andrew Ng;  <br>
@@ -92,3 +87,4 @@ Class 19: [1] LeCun, Yann, et al. "Gradient-based learning applied to document r
 [3] Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014).
 [4] He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. <br>
 Class 20: [4] He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. <br>
+Class 21 and 22: Andrew Ng<br>
