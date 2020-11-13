@@ -69,6 +69,9 @@ Mechanics of Learning-PART VI continued... <br>
 – Introduction to Recurrent Neural Network (RNN) <br>
 <strong>Lecture 22</strong>:<br>
 RNN continued..<br>
+<strong>Lecture 23</strong>:<br>
+– Backpropagation through time<br>
+– Example (RNN using PyTorch)<br>
 
 ### References
 <strong>All the contents present in the slides are taken from various online resources. </strong> </br>
@@ -87,4 +90,5 @@ Class 19: [1] LeCun, Yann, et al. "Gradient-based learning applied to document r
 [3] Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014).
 [4] He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. <br>
 Class 20: [4] He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. <br>
-Class 21 and 22: Andrew Ng<br>
+Class 21 and 22: Prof. Andrew Ng<br>
+Class 23: F. Li & J. Johnson & S. Yeung; Prof. Andrew Ng <br>
