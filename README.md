@@ -72,6 +72,12 @@ RNN continued..<br>
 <strong>Lecture 23</strong>:<br>
 – Backpropagation through time<br>
 – Example (RNN using PyTorch)<br>
+<strong>Lecture 24</strong>:<br>
+– Problems with RNN<br>
+– Gated Recurrent Unit<br>
+<strong>Lecture 25</strong>:<br>
+● Long Short Term Memory networks (LSTMs)<br>
+● Bidirectional RNN<br>
 
 ### References
 <strong>All the contents present in the slides are taken from various online resources. </strong> </br>
@@ -91,4 +97,6 @@ Class 19: [1] LeCun, Yann, et al. "Gradient-based learning applied to document r
 [4] He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. <br>
 Class 20: [4] He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016. <br>
 Class 21 and 22: Prof. Andrew Ng<br>
-Class 23: F. Li & J. Johnson & S. Yeung; Prof. Andrew Ng <br>
+Class 23: F. Li & J. Johnson & S. Yeung; Prof. Andrew Ng; <br>
+Class 24: A. Zhang, Z. C. Lipton, M. Li, and A. Smola, Prof. Andrew Ng; <br>
+Class 25: Christopher Olah, Prof. Andrew Ng; <br>
