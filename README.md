@@ -78,6 +78,10 @@ RNN continued..<br>
 <strong>Lecture 25</strong>:<br>
 ● Long Short Term Memory networks (LSTMs)<br>
 ● Bidirectional RNN<br>
+<strong>Lecture 26</strong>:<br>
+● Introduction to Generative Adversarial Networks (GANs) <br>
+<strong>Lecture 27</strong>:<br>
+GANs continued<br>
 
 ### References
 <strong>All the contents present in the slides are taken from various online resources. </strong> </br>
