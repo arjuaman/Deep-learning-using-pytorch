@@ -100,3 +100,5 @@ Class 21 and 22: Prof. Andrew Ng<br>
 Class 23: F. Li & J. Johnson & S. Yeung; Prof. Andrew Ng; <br>
 Class 24: A. Zhang, Z. C. Lipton, M. Li, and A. Smola, Prof. Andrew Ng; <br>
 Class 25: Christopher Olah, Prof. Andrew Ng; <br>
+Class 26: : A. Zhang, Z. C. Lipton, M. Li, and A. Smola; <br>
+Class 27: Dr. G. Krishnamurthy;<br>
