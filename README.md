@@ -82,6 +82,9 @@ RNN continued..<br>
 ● Introduction to Generative Adversarial Networks (GANs) <br>
 <strong>Lecture 27</strong>:<br>
 GANs continued<br>
+<strong>Lecture 28</strong>:<br>
+Generative Adversarial Networks (GANs)<br>
+
 
 ### References
 <strong>All the contents present in the slides are taken from various online resources. </strong> </br>
@@ -105,4 +108,4 @@ Class 23: F. Li & J. Johnson & S. Yeung; Prof. Andrew Ng; <br>
 Class 24: A. Zhang, Z. C. Lipton, M. Li, and A. Smola, Prof. Andrew Ng; <br>
 Class 25: Christopher Olah, Prof. Andrew Ng; <br>
 Class 26: : A. Zhang, Z. C. Lipton, M. Li, and A. Smola; <br>
-Class 27: Dr. G. Krishnamurthy;<br>
+Class 27,28: Dr. G. Krishnamurthy;<br>
