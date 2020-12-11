@@ -68,7 +68,7 @@ Mechanics of Learning-PART VI continued... <br>
 ● Module 3<br>
 – Introduction to Recurrent Neural Network (RNN) <br>
 <strong>Lecture 22</strong>:<br>
-RNN continued..<br>
+● RNN continued..<br>
 <strong>Lecture 23</strong>:<br>
 – Backpropagation through time<br>
 – Example (RNN using PyTorch)<br>
@@ -81,9 +81,12 @@ RNN continued..<br>
 <strong>Lecture 26</strong>:<br>
 ● Introduction to Generative Adversarial Networks (GANs) <br>
 <strong>Lecture 27</strong>:<br>
-GANs continued<br>
+● GANs continued<br>
 <strong>Lecture 28</strong>:<br>
-Generative Adversarial Networks (GANs)<br>
+● Generative Adversarial Networks (GANs)<br>
+<strong>Lecture 29</strong>:<br>
+● GANs in PyTorch<br>
+
 
 
 ### References
@@ -109,3 +112,4 @@ Class 24: A. Zhang, Z. C. Lipton, M. Li, and A. Smola, Prof. Andrew Ng; <br>
 Class 25: Christopher Olah, Prof. Andrew Ng; <br>
 Class 26: : A. Zhang, Z. C. Lipton, M. Li, and A. Smola; <br>
 Class 27,28: Dr. G. Krishnamurthy;<br>
+CLass 29 : A. Persson; <br>
