@@ -90,7 +90,7 @@ Mechanics of Learning-PART VI continued... <br>
 
 
 ### References
-<strong>All the contents present in the slides are taken from various online resources. </strong> </br>
+<strong>All the contents present in the slides were taken from various online resources. </strong> </br>
 <strong>These slides are used for academic purposes only. </strong> </br>
 
 Class 1: https://pytorch.org/ , https://developer.nvidia.com/cuda-toolkit <br>
